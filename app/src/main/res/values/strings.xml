@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Lunettes</string>
+    <string name="app_description">A RSS Reader by Phoebe</string>
+    <string name="menu_all">All feed</string>
+    <string name="menu_favorite">Favorite feed</string>
+    <string name="add_rss_title">Subscribe RSS feed</string>
+    <string name="add_rss_content">Please enter a RSS url</string>
+    <string name="button_OK">OK</string>
+    <string name="button_cancel">Cancel</string>
+    <string name="add_rss_error">Subscribe Fail</string>
+    <string name="add_rss_success">Subscribe Successfully</string>
+    <string name="add_rss_repeat">You had already subscribe this RSS</string>
+    <string name="add_rss_bad_url">Please enter a valid RSS url</string>
+    <string name="app_empty_text">Oops!\nTry to subscribe something! :)</string>
+</resources>

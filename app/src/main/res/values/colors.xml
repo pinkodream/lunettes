@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lunettes_light">#FDFAE3</color>
+    <color name="lunettes_primary">#3A3D43</color>
+    <color name="lunettes_dark">#000000</color>
+    <color name="lunettes_divider">#E6E6E6</color>
+    <color name="lunettes_background">#EDEDED</color>
+    <color name="lunettes_warning">#FF585b</color>
+    <color name="lunettes_success">#77DFBD</color>
+</resources>

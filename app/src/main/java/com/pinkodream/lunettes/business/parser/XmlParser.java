@@ -13,10 +13,6 @@ import com.pinkodream.lunettes.data.Blog;
 import org.xmlpull.v1.XmlPullParser;
 import org.xmlpull.v1.XmlPullParserException;
 
-/**
- * Pleas check whether the RSS sites use RSS 2.0
- */
-
 public class XmlParser {
 
     private static final String TAG = "XmlParser";
